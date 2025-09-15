@@ -1,0 +1,19 @@
+# Atollic / Eclipse project settings
+.settings/
+.metadata/
+*.launch
+
+# Build directories
+Debug/
+Release/
+
+# Compiled objects
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# Backup / temp files
+*.swp
+*.bak
