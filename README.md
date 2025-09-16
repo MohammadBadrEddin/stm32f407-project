@@ -6,6 +6,17 @@ The software was developed using **Atollic TrueSTUDIO**.
 
 The main goal was to configure and handle CAN communication with specific message IDs, using an interrupt-driven approach.
 
+### Hardware References
+
+This project is based on the following hardware:
+
+- **STM32F407VG Discovery Board**  
+  [Product page](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)  
+
+  [![STM32F407VG Discovery](![STM32F407VG Discovery](assets/image.PF252419.en.feature-description-include-personalized-no-cpn-large.avif)
+
+- **STM32F407VG Microcontroller**  
+  [Product page](https://www.st.com/en/microcontrollers-microprocessors/stm32f407vg.html)
 ---
 
 ## Assignment Requirements
