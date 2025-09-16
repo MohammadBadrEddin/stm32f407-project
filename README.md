@@ -43,7 +43,7 @@ The main goal was to configure and handle CAN communication with specific messag
 ## Tools & Environment
 - **IDE:** Atollic TrueSTUDIO (Eclipse-based)  
 - **MCU:** STM32F407VG  
-- **Expansion Board:** Agonia CAN board (FAUAS)  
+- **Expansion Board:** Agonia board (FRAUAS)  
 - **Bus speed:** 500 kBd  
 - **Language:** C  
 
